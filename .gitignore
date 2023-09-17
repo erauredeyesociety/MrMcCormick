@@ -1,0 +1,6 @@
+.vscode/
+**__pycache__/
+movie-scripts/
+movie-scripts-ocr/
+models/
+weights/
