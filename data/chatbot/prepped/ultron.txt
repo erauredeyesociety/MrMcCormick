@@ -1,0 +1,328 @@
+S: Let's Go!
+R: Shit!
+S: Language!
+R: Wait a second. No one else is going to deal with the fact that Cap just said "language?"
+S: Sir, the city is taking fire.
+R: Well, we know Strucker's not going to worry about civilian casualties. Send in the Iron Legion.
+S: Stark, we really need to get inside.
+R: I'm closing in. JARVIS, am I...closing in? Do you see a power source for that shield?
+S: There's a particle wave below the north tower.
+R: Great, I wanna poke it with something. Drawbridge is down, people.
+S: Find the scepter. 
+R: And for gosh sake, watch your language!
+S: That's not going away anytime soon.
+R: Guys, stop, we gotta talk this through. It was a good talk.
+S: No it wasn't.
+R: Sentry mode. Okay, JARVIS. You know I want it all. Make sure you copy Hill at HQ.
+S: Then get to Banner, time for a lullaby.
+R: I know you're hiding more than files. Hey, J, give me an IR scan of the room, real quick.
+S: The wall to your left...I'm reading steel reinforcement... and an air current.
+R: Please be a secret door, please be a secret door, please be a secret door... Yay! 
+S: Guys, I got Strucker.
+R: Yeah, I got... something bigger. Thor, I got eyes on the prize.
+S: You could've saved us. Why didn't you do more? 
+R: Hey Banner, Dr. Cho's on her way in from Seoul, is it okay if she sets up in your lab?
+S: Uh, yeah, she knows her way around.
+R: Thanks. Tell her to prep everything, Barton's gonna need the full treatment.
+S: Very good sir.
+R: JARVIS, take the wheel.
+S: Yes, sir. Approach vector is locked.
+R: It feels good, yeah? I mean, you've been after this thing since SHIELD collapsed. Not that I haven't enjoyed our little raiding parties, but...
+S: As soon as we find out what else this has been used for. I don't just mean weapons. Since when is Strucker capable of human enhancement?
+R: Banner and I'll give it the once before it goes back to Asgard. Is that cool with you? I mean, just a few days until the farewell party. You're staying right?
+S: Yes, yes, of course. A victory should be honored with revels.
+R: Yeah. Who doesn't love revels. Captain?
+S: Lab's all set up, boss.
+R: Uh, actually, he's the boss. I just pay for everything, and design everything and make everyone look cooler.
+S: How's he doing?
+R: Oh, unfortunately, he's still Barton.
+S: That's terrible.
+R: He's fine. He's thirsty. Alright. Look alive, JARVIS. It's play time. We've only got a couple days with this joystick so let's make the most of it. Update me on the structural and compositional analysis.
+S: The scepter is alien. There are elements I can't quantify.
+R: So there's elements you can.
+S: The jewel appears to be a protective housing for something inside. Something powerful.
+R: Like a reactor?
+S: She's creating tissue.
+R: Oh, he's flatlining. Call it. Time?
+S: No, no, no. I'm going to live forever. I'm gonna be made of plastic.
+R: Here's your beverage.
+S: That I can't fix. This is the next thing, Tony. Your clunky metal suits are going to be left in the dust.
+R: Well, that is exactly the plan. And Helen, I expect to see you at the party on Saturday.
+S: What's the rumpus?
+R: Well, the scepter. You see, we were wondering how Strucker got so inventive. So, I've been analyzing the gem inside-- You may recognize, 
+S: Jarvis.
+R: Started out, JARVIS was just a natural language UI. Now he runs the Iron Legion. He runs more of the business than anyone besides Pepper.
+S: Oh?
+R: Top of the line.
+S: I suspect not for long.
+R: Meet the competition. 
+S: It's beautiful.
+R: If you had to guess, what's it look like it's doing?
+S: Like it's thinking. I mean this could be a... it's not a human mind, it...
+R: Um-um.
+S: I mean, look at this! They're like neurons firing.
+R: Down in Strucker's lab I saw some fairly advanced robotics work. They deep-sixed the data, but... I gotta guess he was knocking on a very particular door.
+S: Artificial intelligence.
+R: This could be it, Bruce. This could be the key to creating Ultron.
+S: I thought Ultron was a fantasy.
+R: Yesterday it was. If we can harness this power, apply it to my Iron Legion protocol.
+S: That's a mad-sized if.
+R: Our job is "if." What if you were sipping margaritas on a sun-drenched beach turning brown instead of green? Not looking over your shoulder for VERONICA.
+S: Don't hate, I helped design VERONICA.
+R: As a worst-case measure, right? How about a best-case? What if the world was safe? What if next time aliens roll up to the club, and they will, they couldn't get past the bouncer?
+S: The only people threatening the planet would be people?
+R: I want to apply this to the Ultron program. But JARVIS can't download a data schematic this dense. We can only do it while we have the scepter here, that's three days, give me three days.
+S: So you're going for artificial intelligence and you don't want to tell the team.
+R: Right. That's right, you know why, because we don't have time for a city hall debate. I don't want to hear the "man was not meant to meddle" medley. I see a suit of armor around the world.
+S: Sounds like a cold world, Tony.
+R: I've seen colder. This one, this very vulnerable blue one? It needs Ultron. Peace in our time. Imagine that. What did we miss?
+S: I'll continue to run variations on the interface, but you should probably prepare for your guests. I'll notify you if there are any developments.
+R: Thanks, buddy.
+S: Enjoy yourself, sir.
+R: I always do. 
+S: I don't get it. The mission.
+R: Peace in our time.
+S: Quality save. So, no Pepper? She's not coming?
+R: No.
+S: Hey, what about Jane? Where are the ladies, gentlemen?
+R: Well, Miss Potts has a company to run.
+S: Yes, I'm not even sure what country Jane's in. Her work on the convergence has made her the world's foremost astronomer.
+R: And the company that Pepper runs is the largest tech conglomerate on earth. It's pretty exciting.
+S: Well please, be my guest.
+R: Come on.
+S: You know I've seen this before, right? I still don't know how you do it.
+R: Smell the silent judgment?
+S: Oh, here we go.
+R: Never one to shrink from an honest challenge.
+S: Here we go.
+R: It's physics.
+S: Physics!
+R: Right, so, if I lift it, I...I then rule Asgard?
+S: Yes, of course.
+R: I will be re-instituting Prima Nocta. I'll be right back. 
+S: Are you even pulling?
+R: Are you on my team?
+S: Just represent! Pull!
+R: Alright, let's go! 
+S: Huh?
+R: Let's go, Steve, no pressure.
+S: Nothing.
+R: And?
+S: I'm sorry, I was asleep. Or... I was a-dream?
+R: Reboot, Legionnaire OS, we got a buggy suit.
+S: You killed someone?
+R: One sec, one sec I got this!
+S: It's unsafe. It's unsafe. It's unsafe.
+R: Come on! That's the one!
+S: He also said he killed somebody.
+R: Yes there was.
+S: This is insane.
+R: Come on. Use your words, buddy.
+S: You think this is funny?
+R: No. It's probably not, right? Is this very terrible? It's so terrible.
+S: This could've been avoided if you hadn't played with something you don't understand.
+R: No, I'm sorry. I'm sorry. It is funny. It's a hoot that you don't get why we need this.
+S: Tony, maybe this might not be the time to--
+R: Really?! That's it? You just roll over, show your belly, every time somebody snarls.
+S: Only when I've created a murder bot.
+R: We didn't. We weren't even close. Were we close to an interface?
+S: Well, you did something right. And you did it right here. The Avengers were supposed to be different than SHIELD.
+R: Anybody remember when I carried a nuke through a wormhole?
+S: No, it's never come up.
+R: Saved New York?
+S: Never heard that.
+R: Recall that? A hostile alien army came charging through a hole in space. We're standing three hundred feet below it. We're the Avengers. We can bust arms dealers all the live long day, but, that up there? That's... that's the end game. How were you guys planning on beating that?
+S: Together.
+R: We'll lose.
+S: Gotta go.
+R: What's this?
+S: A message. Ultron killed Strucker.
+R: And he did a Banksy at the crime scene, just for us.
+S: Everything we had on Strucker has been erased.
+R: Not everything.
+S: Known associates. Well, Strucker had a lot of friends.
+R: Wait. I know that guy. From back in the day. He operates off the African coast, black market arms. There are conventions, alright? You meet people, I didn't sell him anything. He was talking about finding something new, a game changer, it was all very "Ahab."
+S: What's this?
+R: Uh, it's a tattoo. I don't think he had it...
+S: I don't follow. What comes out of Wakanda?
+R: The strongest metal on earth.
+S: What?! I'm not...! I'm not. You think I'm one of Stark's puppets, his hollow men? I mean look at me, do I look like Iron Man? Stark is I'm sorry. I am sor-- Ooh, I'm sure that's going to be okay. I'm sorry, it's just I don't understand. Don't compare me with Stark! It's a thing with me. Stark is, he's a sickness!
+R: Ahh, Junior. You're gonna break your old man's heart.
+S: We don't have to break anything. Clearly you've never made an omelet.
+R: He beat me by one second.
+S: Ah, this is funny, Mr. Stark. It's what, comfortable? Like old times?
+R: This was never my life.
+S: I think you're confusing peace with quiet.
+R: Yuh-huh.
+S: Ah, their getting away.
+R: And you're not going anywhere.
+S: Of course not, I'm already there. You'll catch on. But first, you might need to catch Dr. Banner.
+R: News or footage, keyword: Hulk. Natasha, I could really use a lullaby.
+S: Well, that's not gonna happen. Not for a while. The whole team is down, you got no back up here.
+R: Everyone's...we took a hit. We'll shake it off.
+S: Well for now I'd stay in stealth mode, and stay away from here.
+R: So, run and hide?
+S: Until we can find Ultron, I don't have a lot else to offer.
+R: Neither do we. Hey, you wanna switch out?
+S: No, I'm good. If you wanna get some kip, now's a good time, cause we're still a few hours out.
+R: A few hours from where?
+S: What is this place?
+R: A safe house?
+S: Hey.
+R: Your an agent of some kind?
+S: I know all your names.
+R: These are...smaller agents.
+S: Sorry for barging in on you.
+R: Yeah, we would have called ahead, but we were busy having no idea that you existed.
+S: What, so we disappear?
+R: Thor didn't say where he was going for answers?
+S: Sometimes my teammates don't tell me things. I was kind of hoping Thor would be the exception.
+R: Yeah, give him time. We don't know what the Maximoff kid showed him.
+S: "Earth's Mightiest Heroes." Pulled us apart like cotton candy.
+R: Seems like you walked away all right.
+S: Is that a problem?
+R: I don't trust a guy without a dark side. Call me old fashioned.
+S: Well let's just say you haven't seen it yet.
+R: You know Ultron is trying to tear us apart, right?
+S: Well I guess you'd know. Whether you tell us is a bit of a question.
+R: Banner and I were doing research.
+S: That would affect the team.
+R: That would end the team. Isn't that the mission? Isn't that the "why" we fight, so we can end the fight, so we get to go home?
+S: Every time someone tries to win a war before it starts, innocent people die. Every time.
+R: Yeah, I'll give her a kick. Don't take from my pile. Hello, Deere. Tell me everything. What ails you?
+S: Do me a favor. Try not to bring it to life.
+R: Ah, Mrs. Barton, you little minx. I get it, Maria Hill called you, right? Was she ever not working for you?
+S: Artificial intelligence. You never even hesitated.
+R: Look, it's been a really long day, like, Eugene O'Neill long, so how's about we skip to the part where you're useful?
+S: Look me in the eye and tell me you're going to shut him down.
+R: You're not the director of me.
+S: I'm not the director of anybody. I'm just an old man, who cares very much about you.
+R: And I'm the man who killed the Avengers. I saw it. I didn't tell the team, how could I? I saw them all dead, Nick. I felt it. The whole world, too. It's because of me. I wasn't ready. I didn't do all I could.
+S: The Maximoff girl, she's working you, Stark. Playing on your fear.
+R: I wasn't tricked, I was shown. It wasn't a nightmare, it was my legacy. The end of the path I started us on.
+S: You've come up with some pretty impressive inventions, Tony. War isn't one of them.
+R: I watched my friends die. You'd think that'd be as bad as it gets, right? Nope. Wasn't the worst part.
+S: What about Ultron himself?
+R: He still going after launch codes?
+S: Yes, he is, but he's not making any headway.
+R: I cracked the Pentagon's firewall in high school on a dare.
+S: The codes are constantly being changed.
+R: By whom?
+S: Ultron's got an enemy, that's not the same thing. Still, I'd pay folding money to know who it is.
+R: I might need to visit Oslo, find our "unknown."
+S: To become better. Better than us. He keeps building bodies.
+R: Person bodies. The human form is inefficient, biologically speaking, we're outmoded. But he keeps coming back to it.
+S: Has anyone been in contact with Helen Cho?
+R: Alright, strictly recon. I'll hit the NEXUS, I'll join you as soon as I can.
+S: If Ultron is really building a body...
+R: He'll be more powerful than any of us. Maybe all of us. An android designed by a robot.
+S: I'll drop Banner off at the tower. Do you mind if I borrow Ms. Hill?
+R: She's all yours, apparently.
+S: What are you gonna do?
+R: A hacker who's faster than Ultron? He could be anywhere. And as this is the center of everything, I'm just a guy looking for a needle in the world's biggest haystack.
+S: How do you find it?
+R: Pretty simple. You bring a magnet. Oh, I'm decrypting nuclear codes and you don't want me to. Come and get me.
+S: Anything on Nat?
+R: Haven't heard. But she's alive, or Ultron'd be rubbing our faces in it.
+S: This is sealed tight.
+R: Hm. Any chance Natasha might leave you a message, outside the internet, old school spy stuff?
+S: There's some nets I can cast. Yeah, alright. I'll find her. 
+R: Yeah, about that.
+S: No.
+R: You have to trust me.
+S: Kinda don't.
+R: Our ally? The guy protecting the military's nuclear codes? I found him. 
+S: Hello, Dr. Banner.
+R: Ultron didn't go after JARVIS cause he was angry. He attacked him because he was scared of what he can do. So JARVIS went underground. Okay? Scattered, dumped his memory. But not his protocols. He didn't even know he was in there, until I pieced him together.
+S: So, you want me to help you put JARVIS into this thing?
+R: No, of course not! I want to help you put JARVIS in this thing. We're out of my field here. You know bio-organics better than anyone.
+S: And you just assume that JARVIS' operational matrix can beat Ultron's?
+R: JARVIS has been beating him from inside without knowing it. This is the opportunity, we can create Ultron's perfect self, without the homicidal glitches he thinks are his winning personality. We have to.
+S: No, I'm in a loop! I'm caught in a time loop, this is exactly where it all went wrong.
+R: I know, I know. I know what everyone's going to say, but they're already saying it. We're mad scientists. We're monsters, buddy. You gotta own it. Make a stand. It's not a loop. It's the end of the line.
+S: I wasn't sure you'd wake up. I hoped you would, I wanted to show you something. I don't have anyone else. I think a lot about meteors, the purity of them. Boom! The end, start again. The world made clean for the new man to rebuild. I was meant to be new. I was meant to be beautiful. The world would've looked to the sky and seen hope, seen mercy. Instead they'll look up in horror because of you. You've wounded me. I give you full marks for that. But, like the man said, "What doesn't kill me…" "…just makes me stronger." 
+R: This framework is not compatible.
+S: I'm gonna say this once.
+R: How about "nonce"?
+S: Shut it down!
+R: Nope, not gonna happen.
+S: I know you're angry.
+R: That's nothing compared to what's coming!
+S: What? You didn't see that coming?
+R: I'm rerouting the upload.
+S: Why does your "vision" sound like JARVIS?
+R: We... reconfigured JARVIS' matrix to create something new.
+S: Well it better get real simple real soon.
+R: What's he waiting for?
+S: Three minutes. Get what you need.
+R: No way we all get through this. If even one tin soldier is left standing, we've lost. It's gonna be blood on the floor.
+S: I got no plans tomorrow night.
+R: I get first crack at the big guy. Iron Man's the one he's waiting for.
+S: Come to confess your sins?
+R: I don't know, how much time you got?
+S: More than you.
+R: Uhhh. Have you been juicing? A little Vibranium cocktail? You're looking, I don't wanna say, puffy...
+S: You're stalling to protect the people.
+R: Well, that is the mission. Did you forget?
+S: Get off the bridge! Run!
+R: If it drops?
+S: Right now the impact would kill thousands. Once it gets high enough: Global extinction. That building's not clear, the tenth floor. 
+R: Hi. Okay. Get in the tub! 
+S: I got airborne, heading up to the bridge.
+R: Cap, you got incoming.
+S: Keep up old man!
+R: Maybe if we cap the other end, keep the atomic action doubling back.
+S: The next wave's gonna hit any minute. What have you got, Stark?
+R: Well, nothing great. Maybe a way to blow up the city. That'll keep it from impacting the surface if you guys can get clear.
+S: I asked for a solution, not an escape plan.
+R: Impact radius is getting bigger every second. We're going to have to make a choice.
+S: Yes! Now this is gonna be a good story.
+R: Yep. If you live to tell it.
+S: You think I can't hold my own?
+R: We get through this, I'll hold your own.
+S: Well, if there's too much weight, you lose power on the swing, so. 
+R: I got it! Create a heat seal. I can...I can supercharge the spire from below. 
+S: Running numbers. A heat seal could work with enough power. 
+R: Thor, I got a plan! 
+S: We're out of time. They're coming for the core. 
+R: Rhodey, get the rest of the people on board that carrier. 
+S: On it. 
+R: Avengers, time to work for a living. 
+S: You good?
+R: Romanoff? You and Banner better not be playing "hide the zucchini." 
+S: Relax, Shell-head. Not all of us can fly. What's the drill? 
+R: This is the drill. If Ultron gets a hand on the core, we lose. 
+S: You had to ask. 
+R: Well, like the old man said. Together. 
+S: They'll try to leave the city. 
+R: We can't let 'em, not even one. Rhodey! 
+S: Boss, power levels are way below opt... 
+R: Re-route everything. We get one shot at this. 
+S: So get your ass on a boat. Hey, big guy. Sun's getting real low. 
+R: Thor, I'm gonna need you back in the church. 
+S: Is this the last of them? 
+R: You know, if this works, we maybe don't walk away. 
+S: Wanda. If you stay here, you'll die. 
+R: Thor, on my mark. Now! 
+S: The rules have changed. 
+R: We're dealing with something new. 
+S: Well, the Vision's artificial intelligence. 
+R: A machine. 
+S: So it doesn't count. 
+R: No. It's not like a person lifting the hammer. 
+S: Right. Different rules for us. 
+R: Nice guy, but artificial. 
+S: But if you put the hammer in an elevator... 
+R: It would still go up.
+S: I'm going to miss these little talks of ours. 
+R: Well, not if you don't leave. 
+S: I have no choice. The Mind Stone is the fourth of the Infinity Stones to show up in the last few years. That's not a coincidence. Someone has been playing an intricate game and has made pawns of us. But once all these pieces are in position... 
+R: Triple Yahtzee? 
+S: I do. Besides this one, there's nothing that can't be explained. 
+R: That man has no regard for lawn maintenance. I'm gonna miss him though. And you're gonna miss me. There's gonna be a lot of manful tears. 
+S: I will miss you, Tony. 
+R: Yeah? Well, it's time for me to tap out. Maybe I should take a page out of Barton's book and build Pepper a farm, hope nobody blows it up. 
+S: The simple life. 
+R: You'll get there one day. 
+S: I don't know, family, stability. The guy who wanted all that went in the ice seventy-five years ago. I think someone else came out. 
+R: You alright?

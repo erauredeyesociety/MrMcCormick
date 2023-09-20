@@ -1,6 +1,7 @@
-.vscode/
+**.vscode/
 **__pycache__/
 movie-scripts/
 movie-scripts-ocr/
 models/
 weights/
+chatbot_model_files_tmp/

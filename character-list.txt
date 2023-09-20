@@ -1,24 +1,22 @@
-tyler durden
-american psycho
-james bond
-tony stark
-danny ocean
-rusty ryan
-maverick
-batman
-Bane
-joker
-king leonidas
-jason bourne
-Don Vito Corleone
-Vincent Hanna
-James Convey
-forrest bondurant
-captain sparrow
-Bryan Mills
+[x] tyler durden
+[x] american psycho
+[x] james bond
+[x] tony stark
+[x] danny ocean
+[x] rusty ryan
+[x] maverick
+[x] batman
+[x] Bane
+[x] joker
+[x] king leonidas
+[x] jason bourne
+[x] Don Vito Corleone
+[x] Vincent Hanna
+[x] captain sparrow
+[x] Bryan Mills
 
-lieutenant speirs
-tomy shelby
-alfie solomons
-walter white
-Don Draper
+[] lieutenant speirs
+[] tomy shelby
+[] alfie solomons
+[] walter white
+[] Don Draper
